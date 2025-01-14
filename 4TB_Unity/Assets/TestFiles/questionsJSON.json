@@ -1,0 +1,28 @@
+{
+   "question":[
+      {
+	      "id":1,
+         "alternativeA":"be a monkey",
+         "alternativeB":"be a dog"
+      },
+      {
+	      "id":2,
+         "alternativeA":"eat a boot",
+         "alternativeB":"eat a dress shoe"
+      },
+      {
+	      "id":3,
+         "alternativeA":"lose all your money once",
+         "alternativeB":"lose all your cellphone for life"
+      },
+      {
+	      "id": 4,
+         "alternativeA":"eat a hat",
+         "alternativeB":"eat a glove"
+      }
+   ]
+}
+
+
+
+

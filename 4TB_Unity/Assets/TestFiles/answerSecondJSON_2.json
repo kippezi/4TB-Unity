@@ -1,0 +1,22 @@
+{
+    "AnswerSecond":[
+        {
+            "id": "5",
+            "answer": "2000",
+            "questionid": "2",
+            "playerid": "2"
+        },
+        {
+            "id": "6",
+            "answer": "1900",
+            "questionid": "2",
+            "playerid": "1"
+        },
+        {
+            "id": "7",
+            "answer": "1800",
+            "questionid": "2",
+            "playerid": "3"
+        }               
+    ]
+}
