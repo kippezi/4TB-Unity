@@ -1,6 +1,6 @@
 # 4TB-Unity
 
-4TB-Unity is the core component of a game project that combines Unity with a web-based interface and a backend system to deliver an interactive quiz game experience. Players join the game through a smartphone browser, where they answer questions and view real-time game progress and scores. The game is powered by Unity, with the frontend developed in React and the backend developed using Node.js and Express.
+4TB-Unity is the core component of a game project that combines Unity with a web-based interface and a backend system to deliver an interactive quiz game experience. Players join the game through a smartphone browser, where they answer questions and view real-time game progress and scores. The game is powered by Unity, with the frontend developed in React (check 4TB-Frontend) and the backend developed using Node.js and Express (check 4TB-backend).
 
 ---
 
