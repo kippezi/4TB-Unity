@@ -10,9 +10,6 @@
 3. [Game Flow](#game-flow)
 4. [Key Components](#key-components)
 5. [Project Files](#project-files)
-6. [Installation](#installation)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
