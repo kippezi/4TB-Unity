@@ -30,7 +30,7 @@ Players join the quiz game using their chosen ID and participate by answering qu
 
 ---
 
-## Key Components
+## Key Components (Located in 4TB_Unity/Assets/Scripts/)
 
 The `4TB-Unity` repository contains several core components that handle different aspects of the game logic:
 
